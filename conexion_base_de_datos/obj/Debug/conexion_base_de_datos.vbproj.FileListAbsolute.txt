@@ -1,0 +1,28 @@
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.exe.config
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.exe
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.pdb
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.xml
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.vbprojResolveAssemblyReference.cache
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.Form1.resources
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.Resources.resources
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.vbproj.GenerateResource.Cache
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.exe
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.xml
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.pdb
+C:\Users\4to. Compu\Pictures\Visual_Basic\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.frmIsesion.resources
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.exe.config
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.exe
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.xml
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.pdb
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.exe
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.pdb
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.xml
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.vbprojResolveAssemblyReference.cache
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.Form1.resources
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.frmIsesion.resources
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.Resources.resources
+C:\Users\Prof. Plan Diario\Documents\Visual Studio 2015\Projects\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\conexion_base_de_datos\conexion_base_de_datos\bin\Debug\conexion_base_de_datos.exe.config
+C:\Users\Estudiante\Desktop\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.exe
+C:\Users\Estudiante\Desktop\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.xml
+C:\Users\Estudiante\Desktop\conexion_base_de_datos\conexion_base_de_datos\obj\Debug\conexion_base_de_datos.pdb
